@@ -1,1 +1,1 @@
-# ApoDoc symptomchecker sample
+Zlanax E Learning Platform
